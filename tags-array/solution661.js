@@ -30,11 +30,3 @@ var imageSmoother = function (M) {
 };
 
 console.log(imageSmoother([[0]]))
-
-(function(){
-
-})()
-
-(function(){
-
-}())

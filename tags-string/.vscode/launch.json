@@ -9,13 +9,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/solution67.js"
-        },
-        {
-            "type": "node",
-            "request": "launch",
-            "name": "test",
-            "program": "${workspaceFolder}/test.js"
+            "program": "${workspaceFolder}/solution520.js"
         }
     ]
 }
